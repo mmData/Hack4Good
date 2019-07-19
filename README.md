@@ -1,5 +1,5 @@
 **Introduction:**  
-Welcome to the GitLab Repo for the Pilot edition of Hack4Good this FS19.  
+Welcome to the GitLab Repo for the Pilot edition of Hack4Good this FS19. This is the Repo of team Red composed by Marco Mancini, Yilmazcan Ozyurt, Ylli Muhadri and Maria R. Cervera. 
 Hack4Good is a 5-week long pro-bono program that matches Data Science talents from ETH Zurich with organisations (NGOs) that promote social causes. In close collaboration with such a NGO, small teams of 3-4 students develop and implement data-driven solutions to increase these organizations' impact.
 
 
@@ -41,11 +41,8 @@ Hack4Good is a 5-week long pro-bono program that matches Data Science talents fr
 ├── misc                     <- miscellaneous
 │
 │
-├── notebooks                <- Jupyter notebooks. Every developper has its own folder for exploratory
-│   ├── name                    notebooks. Usually every model has its own notebook where models are
-│   │   └── exploration.ipynb   tested and optimized. (The present notebooks can be deleted as they only serve for inspiration purposes)
-│   └── model
-│       └── model_exploration.ipynb <- different optimized models can be compared here if preferred    
+├── notebooks                <- Jupyter notebooks used to perform the analysis. They include initial manipulation of the data, ML model
+|                               and clustering. The README file in this folder has a more detailed explanation of each file.
 │
 │
 ├── reports                   <- Generated analysis as HTML, PDF, LaTeX, etc.
@@ -56,23 +53,9 @@ Hack4Good is a 5-week long pro-bono program that matches Data Science talents fr
 │   ├── outputs
 │   └── models               <- Trained and serialized models, model predictions, or model summaries
 │                               (if present)
-│
-├── scores                   <- Cross validation scores are saved here. (Automatically generated)
-│   └── model_name           <- every model has its own folder.
-│
-├── src                      <- Source code of this project. All final code comes here (Notebooks are thought for exploration)
-│   ├── __init__.py          <- Makes src a Python module
-│   ├── main.py              <- main file, that can be called.
-│   │
-│   │
-│   └── utils                <- Scripts to create exploratory and results oriented visualizations
-│       └── exploration.py      / functions to evaluate models
-│       └── evaluation.py       There is an exemplary implementation of these function in the sample notebook and they should be seen
-                                as a help if you wish to use them. You can completely ignore or delete both files.
+
 ```
 
 
 
-* delete the env to recreate it when too many changes are done  
 
-  ```conda env remove -n env_your_proj```
