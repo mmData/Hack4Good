@@ -7,3 +7,5 @@
 Shapley Value: finding each player’s marginal contribution, averaged over every possible sequence in which the players could have been added to the group
 
 6)	We tried to cluster sector need based on demographic data, however the results were not useful. We then cluster sector needs, finding what kind of needs were usually correlated.
+
+7)During the questionnarie HH members were directly asked what was their first/second/third priority. We compare whether the first sector priority as obtained by our indexes is the same as the one directly reported by HH. 
