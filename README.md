@@ -1,5 +1,6 @@
 **Introduction:**  
 Welcome to the GitLab Repo for the Pilot edition of Hack4Good this FS19. This is the Repo of team Red composed by Marco Mancini, Yilmazcan Ozyurt, Ylli Muhadri and Maria R. Cervera. 
+
 Hack4Good is a 5-week long pro-bono program that matches Data Science talents from ETH Zurich with organisations (NGOs) that promote social causes. In close collaboration with such a NGO, small teams of 3-4 students develop and implement data-driven solutions to increase these organizations' impact.
 
 
