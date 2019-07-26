@@ -18,8 +18,11 @@ of the people and their needs, ultimately helping decisionmaking for humanitaria
 this dataset and uncover patterns so far not identified.
 
 **Methods:** 
+
+
 Datasets were provided by REACH. Analyses were done with
 Python 3.5 using numpy, pandas, scikit-learn, yellowbrick
+
 The ultimate goal of this project is assesing whether demographic variables 
 can be good predictors for needs of the population an whether these needs are related
 between each other.
