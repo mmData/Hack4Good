@@ -24,7 +24,7 @@ between each other.
 We then tried two approaches: predictive models and clustering. Several
 predictive models were tested, from simple linear classifiers
 to complex ensemble and boosting methods. We focused on
-Balanced Random Forest (BRF), which if well suited for tasks
+Balanced Random Forest (BRF), which is well suited for tasks
 with imbalanced classes. For clustering the Households according
 to their demographics, we used Gower dissimilarity measure
  to introduce the dissimilarity matrix of Households based on the
