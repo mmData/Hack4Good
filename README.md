@@ -16,6 +16,8 @@ including Food, Education, Health etc. offers unique potential to
 investigate underlying relationships between the characteristics
 of the people and their needs, ultimately helping decisionmaking for humanitarian aid. Here, we tried to further explore
 this dataset and uncover patterns so far not identified.
+
+
 The ultimate goal of this project is assesing whether demographic variables 
 can be good predictors for needs of the population an whether these needs are related
 between each other.
