@@ -16,26 +16,30 @@ including Food, Education, Health etc. offers unique potential to
 investigate underlying relationships between the characteristics
 of the people and their needs, ultimately helping decisionmaking for humanitarian aid. Here, we tried to further explore
 this dataset and uncover patterns so far not identified.
-
-**Methods:** 
-
-
-Datasets were provided by REACH. Analyses were done with
-Python 3.5 using numpy, pandas, scikit-learn, yellowbrick
-
 The ultimate goal of this project is assesing whether demographic variables 
 can be good predictors for needs of the population an whether these needs are related
 between each other.
-We then
-tried two approaches: predictive models and clustering. Several
+We then tried two approaches: predictive models and clustering. Several
 predictive models were tested, from simple linear classifiers
 to complex ensemble and boosting methods. We focused on
 Balanced Random Forest (BRF), which if well suited for tasks
-with imbalanced classes. For clustering the HHs according
+with imbalanced classes. For clustering the Households according
 to their demographics, we used Gower dissimilarity measure
-[1] to introduce the dissimilarity matrix of HHs based on the
+ to introduce the dissimilarity matrix of Households based on the
 features, and then applied Constant Shift Embedding (CSE)
-[2] to project our matrix into 2D space for visualization.
+to project our matrix into 2D space for visualization.
+
+
+
+
+
+**Requirements:** 
+
+
+Datasets were provided by REACH and can be found in the folder data/raw. Analyses were done with
+Python 3.5 using numpy, pandas, scikit-learn, yellowbrick
+
+
 
 **Useful Links:**
 *  [Impact Initiatives website](http://www.impact-initiatives.org/)
