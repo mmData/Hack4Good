@@ -46,16 +46,6 @@ Python 3.5 using numpy, pandas, scikit-learn, yellowbrick
 **Useful Links:**
 *  [Impact Initiatives website](http://www.impact-initiatives.org/)
 
-**Workshop Dates:**
-
-| Event | Date | Location |
-| ------ | ------ | ------ |
-| Teamwork time in the SPH (optional) |  24.4.19 (Wed) , 17:00 - 19:00| SPH |
-| Workshop 1: Agile workshop for Data Science by external experts | 26.4.19 (Fri), 16:30 - 20:30 | HG E.42 |
-| Teamwork time in the SPH (optional) | 29.4.19 (Mon), 17:00 - 19:00 | SPH |
-| Workshop 2: Feedback workshop | 8.5.19 (Wed), 17:00 - 19:00 | SPH |
-| Workshop 3: Pitching workshop | 15.5.19 (Wed), 17:00 - 19:00 | SPH |
-| Final event: Final presentation & Workshop 4: Reflection | 20.5.19 (Mon), 17:30 - 21:30 | SPH |
 
 
 
